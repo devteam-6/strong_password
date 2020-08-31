@@ -2,9 +2,6 @@
 
 """
 Chapter 7 Excercise : Strong password Detection
-
-
-
 """
 import re
 __author__ = "Furichous Jones IV"
